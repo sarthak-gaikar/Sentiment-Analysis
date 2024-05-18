@@ -1,0 +1,54 @@
+Test Accuracy: 0.9260700389105059
+Classification Report:
+              precision    recall  f1-score   support
+
+  Irrelevant       0.98      0.87      0.92      2546
+    Negative       0.90      0.96      0.93      4315
+     Neutral       0.94      0.92      0.93      3615
+    Positive       0.91      0.94      0.92      3916
+
+    accuracy                           0.93     14392
+   macro avg       0.93      0.92      0.93     14392
+weighted avg       0.93      0.93      0.93     14392
+
+Actual vs Predicted Labels with Tweet Text:
+Tweet: Guns, Love, and Sex is out now, and here are 5 reasons not excited to
+Actual Label: Neutral
+Predicted Label: Neutral
+-----------------------
+Tweet: i know you had the 0.73 k/d ratio in the group and kept yelling “that’s so fake” when you kept getting smoked online.
+Actual Label: Irrelevant
+Predicted Label: Irrelevant
+-----------------------
+Tweet: JRPSC put a hub in MOD APK'S, from PUBG Store versions to free Spotify accounts, everything is available at JRPRSC. Do take a look to this Amazing website. jrpsc.org
+Actual Label: Irrelevant
+Predicted Label: Irrelevant
+-----------------------
+Tweet: for having it so much fun streaming and actually playing Overwatch again, thank you all for all the support as being well!! stream will officially resume again tomorrow!! love u all
+Actual Label: Positive
+Predicted Label: Positive
+-----------------------
+Tweet: We need a third for Ranked right now!
+Actual Label: Neutral
+Predicted Label: Neutral
+-----------------------
+Tweet: This Scene You Hit me everytime
+Actual Label: Positive
+Predicted Label: Positive
+-----------------------
+Tweet: 🥺 I love to see it!
+Actual Label: Positive
+Predicted Label: Positive
+-----------------------
+Tweet: Gtfo ord
+Actual Label: Negative
+Predicted Label: Negative
+-----------------------
+Tweet: Nice @EAMaddenNFL @EASPORTS_MUT @EA pic.twitter.com/eTOHC1JJgl
+Actual Label: Positive
+Predicted Label: Positive
+-----------------------
+Tweet: I’m done bro and my stuff got corrupt and I’m downloading game updates now 🙂 @2KSupport @NBA2K
+Actual Label: Negative
+Predicted Label: Negative
+-----------------------
